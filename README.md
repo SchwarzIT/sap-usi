@@ -14,12 +14,15 @@ You can think of our developments as a developer toolbox or a technical foundati
 
 # How to participate
 
-If you are missing a feature or have a great idea, you can either open an issue or contribute code directly.
+If you are missing a feature or have a great idea, you can open an issue.
+
+You can also contribute code, but please ensure, that the new feature matches the overall purpose of the component.
+If you are not sure about that, just open an issue and discuss it with us beforehand.
 
 Please do not get confused if it takes us days or - depending on the size of your contribution - even weeks to merge your changes into the main branch.
 This is NOT because we do not appreciate your work or simply do not care. In fact the opposite is the case.
 
-Every contribution has to undego a rigorous internal review process before merging.
+Every new version has to undego a rigorous internal review process before merging.
 The code has to pass:
 * ATC Checks
 * Unit Tests
@@ -28,8 +31,14 @@ The code has to pass:
 
 The list is not necessarily complete. If applicable, we might end up writing test code to test parts of the development in isolation.
 And for the sake of compliance the review has to be documented internally and at least three different colleagues will be involved.
-
 This process simply takes some time.
+
+Please do not get intimidated by that review process.
+We will not make that your problem and we will try to keep things friendly.
+
+As long as the new version does not introduce harmful things like e.g. bugs or security issues, we will accept the pull request.
+If your code does not comply to our internal guidelines, we will refactor it internally, so that it passes the review process.
+After that we will merge your version into the main branch right before pushing our refactored version into the main branch.
 
 # Software catalog
 
