@@ -14,6 +14,14 @@ You can think of our developments as a developer toolbox or a technical foundati
 
 # How to participate
 
+If you are missing a feature or have a cool idea, you can always open an issue.
+
+You can also contribute code.
+
+Since our developments must undergo a rigorous review process, we will never merge code from a pull request directly in GitHub. Instead, we will transfer the code to our backend system and perform quality assurance there. After the code has passed all checks, it is transferred to the repository via abapGit.
+
+If you want your contribution to be linked to your user account, we need your email address because gitHub identifies user accounts by their respective email addresses. If you submit your email address with the pull request, we will use it to identify you as the author of the commit. If you don't, there is no way we know of to mark you as the author.
+
 # Software catalog
 
 We are currently offering the following components:
