@@ -14,13 +14,21 @@ You can think of our developments as a developer toolbox or a technical foundati
 
 # How to participate
 
-If you are missing a feature or have a cool idea, you can always open an issue.
+If you are missing a feature or have a great idea, you can either open an issue or contribute code directly.
 
-You can also contribute code.
+Please do not get confused if it takes us days or - depending on the size of your contribution - even weeks to merge your changes into the main branch.
+This is NOT because we do not appreciate your work or simply do not care. In fact the opposite is the case.
 
-Since our developments must undergo a rigorous review process, we will never merge code from a pull request directly in GitHub. Instead, we will transfer the code to our backend system and perform quality assurance there. After the code has passed all checks, it is transferred to the repository via abapGit.
+Every contribution has to undego a rigorous internal review process before merging.
+The code has to pass:
+* ATC Checks
+* Unit Tests
+* A manual review by a developer (Yes, we will actually read every single line of that code!)
+* Manual explorative tests
 
-If you want your contribution to be linked to your user account, we need your email address because gitHub identifies user accounts by their respective email addresses. If you submit your email address with the pull request, we will use it to identify you as the author of the commit. If you don't, there is no way we know of to mark you as the author.
+The list is not necessarily complete. If applicable, we might end up writing test code to test parts of the development in isolation.
+And for the sake of compliance the review has to be documented internally and at least three different colleagues will be involved.
+This process simply takes some time.
 
 # Software catalog
 
