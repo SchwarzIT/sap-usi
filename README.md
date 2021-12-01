@@ -5,7 +5,7 @@ The Schwarz Group operates over 800 SAP systems with about 200 of them being pro
 Some subtasks - like sending an email or writing the application log - came up again and again over time.
 
 The USI development chapter was created to avoid the redundant implementation of such subtasks. 
-Our goal is to provide good solutions for such repetitive tasks, that can easily be consumed by other developers.
+Our goal is to provide reusable solutions for such repetitive tasks, that can easily be consumed by other developers.
 
 You can think of our developments as a developer toolbox or a technical foundation, that can be used to:
 * avoid redundancies
