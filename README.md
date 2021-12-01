@@ -40,7 +40,7 @@ We will not make that your problem and we will try to keep things friendly.
 
 As long as the new version does not introduce harmful things like e.g. bugs or security issues, we will accept the pull request.
 If your code does not comply to our internal guidelines, we will refactor it internally, so that it passes the review process.
-After that we will merge your version into the main branch right before pushing our refactored version into the main branch.
+After that we will merge your version into the main branch right before pushing our refactored version.
 
 ## Software catalog
 
