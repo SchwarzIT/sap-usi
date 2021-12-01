@@ -1,5 +1,7 @@
 [![SIT](https://img.shields.io/badge/SIT-About%20us-%236e1e6e)](https://it.schwarz)
-# Who we are and what we do
+
+# USI Development Chapter
+## Who we are and what we do
 
 The Schwarz Group operates over 800 SAP systems with about 200 of them being productive. 
 Some subtasks - like sending an email or writing the application log - came up again and again over time.
@@ -12,7 +14,7 @@ You can think of our developments as a developer toolbox or a technical foundati
 * boost developer productivity
 * enhance your products with powerful features
 
-# How to participate
+## How to participate
 
 If you are missing a feature or have a great idea, you can open an issue.
 
@@ -40,7 +42,7 @@ As long as the new version does not introduce harmful things like e.g. bugs or s
 If your code does not comply to our internal guidelines, we will refactor it internally, so that it passes the review process.
 After that we will merge your version into the main branch right before pushing our refactored version into the main branch.
 
-# Software catalog
+## Software catalog
 
 We are currently offering the following components:
 
