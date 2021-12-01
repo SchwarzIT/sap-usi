@@ -16,7 +16,7 @@ You can think of our developments as a developer toolbox or a technical foundati
 
 If you are missing a feature or have a great idea, you can open an issue.
 
-You can also contribute code, but please ensure, that the new feature matches the overall purpose of the component.
+You can also contribute code, but please ensure, that new features are matching the overall purpose of the component.
 If you are not sure about that, just open an issue and discuss it with us beforehand.
 
 Please do not get confused if it takes us days or - depending on the size of your contribution - even weeks to merge your changes into the main branch.
