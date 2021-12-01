@@ -22,7 +22,7 @@ If you are not sure about that, just open an issue and discuss it with us before
 Please do not get confused if it takes us days or - depending on the size of your contribution - even weeks to merge your changes into the main branch.
 This is NOT because we do not appreciate your work or simply do not care. In fact the opposite is the case.
 
-Every new version has to undego a rigorous internal review process before merging.
+Every new version has to undergo a rigorous internal review process before merging.
 The code has to pass:
 * ATC Checks
 * Unit Tests
