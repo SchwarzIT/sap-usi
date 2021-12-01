@@ -28,6 +28,7 @@ The code has to pass:
 
 The list is not necessarily complete. If applicable, we might end up writing test code to test parts of the development in isolation.
 And for the sake of compliance the review has to be documented internally and at least three different colleagues will be involved.
+
 This process simply takes some time.
 
 # Software catalog
