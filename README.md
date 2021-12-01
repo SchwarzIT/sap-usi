@@ -1,4 +1,4 @@
-[![SIT](https://img.shields.io/badge/SIT-awesome-blueviolet.svg)](https://it.schwarz)
+[![SIT](https://img.shields.io/badge/SIT-About%20us-%236e1e6e)](https://it.schwarz)
 # Who we are and what we do
 
 The Schwarz Group operates over 800 SAP systems with about 200 of them being productive. 
