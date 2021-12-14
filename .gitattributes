@@ -1,1 +1,1 @@
-*.abap linguist-detectable=true
+*.* linguist-detectable=ABAP
