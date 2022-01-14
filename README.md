@@ -1,3 +1,8 @@
+<!-- Links used on this page (Declaration) -->
+[ABAP_GIT]:       https://docs.abapgit.org/
+[REPAIR_LICENSE]: ./docs/MAINTAIN_REPAIR_LICENSE.md
+
+
 [![SIT](https://img.shields.io/badge/SIT-About%20us-%236e1e6e)](https://it.schwarz)
 
 # USI Development Chapter
@@ -13,6 +18,11 @@ You can think of our developments as a developer toolbox or a technical foundati
 * avoid redundancies
 * boost developer productivity
 * enhance your products with powerful features
+
+## Getting started
+The following activities must be performed once for each relevant development system:
+* install [abapGit][ABAP_GIT]
+* maintain the [repair license key][REPAIR_LICENSE]
 
 ## How to participate
 
