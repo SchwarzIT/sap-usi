@@ -5,7 +5,7 @@ You can always open an issue if you:
 * are missing a feature
 * found a bug
 
-The issues should be created in the repositor of the respective solution.
+The issues should be created in the repository of the respective solution.
 
 ## Before you start coding
 You can also contribute code, but please make sure that the new features are matching the overall purpose of the component.
