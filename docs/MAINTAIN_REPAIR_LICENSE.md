@@ -15,4 +15,4 @@ The relevant data of our namespace can also be found in the src-directories (#us
 | Namespace role | C                               |
 | Repair License | 07181429931319159598            |
 | Short Text     | Unternehmensgruppe Schwarz - IT |
-| Owner          | SITIOS                          |
+| Owner          | Schwarz IT                      |
