@@ -4,7 +4,7 @@
 [CONTRIBUTING]:   ./docs/CONTRIBUTING.md
 
 
-[![SIT](https://img.shields.io/badge/SIT-About%20us-%236e1e6e)](https://it.schwarz)
+[![SIT](https://img.shields.io/badge/SIT-About%20us-%236e1e6e)](https://it.schwarz/en)
 
 # USI Development Chapter
 ## Who we are and what we do
