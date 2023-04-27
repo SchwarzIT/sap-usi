@@ -25,6 +25,10 @@ The following activities must be performed once for each relevant development sy
 * install [abapGit][ABAP_GIT]
 * maintain the [repair license key][REPAIR_LICENSE]
 
+**HINT**: Since our developments take place in a dedicated namespace, the package name used in abapGit must start with ```/USI/```. It is recommended to use the package type ```Main Package``` and to activate encapsulation.
+
+![Package_Builder_Create_Package](https://user-images.githubusercontent.com/86975244/234884419-10195267-123d-499d-9cda-5da492913f82.png)
+
 ## How to contribute
 Please check our [contribution guidelines][CONTRIBUTING] to learn more about this topic.
 
