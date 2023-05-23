@@ -1,6 +1,5 @@
 <!-- Links used on this page (Declaration) -->
 [ABAP_GIT]:       https://docs.abapgit.org/
-[REPAIR_LICENSE]: ./docs/MAINTAIN_REPAIR_LICENSE.md
 [CONTRIBUTING]:   ./docs/CONTRIBUTING.md
 
 
@@ -23,7 +22,6 @@ You can think of our developments as a developer toolbox or a technical foundati
 ## Getting started
 The following activities must be performed once for each relevant development system:
 * install [abapGit][ABAP_GIT]
-* maintain the [repair license key][REPAIR_LICENSE]
 
 **HINT**: Since our developments take place in a dedicated namespace, the package name used in abapGit must start with ```/USI/```. It is recommended to use the package type ```Main Package``` and to activate encapsulation.
 
