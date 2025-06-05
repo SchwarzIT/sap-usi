@@ -4,6 +4,8 @@
 # Needed tools
 You will need [abapGit][ABAP_GIT] to install our software on your system.
 
+Please choose the folder logic `FULL` when creating the repository in abapGit.
+
 # Package structure
 Since we are developing in our own namespace, all object names start with ```/USI/```. 
 The latest version of abapGit handles namespaces automatically, so that no manual steps are required anymore.
